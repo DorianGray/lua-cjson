@@ -1,9 +1,9 @@
 package = "lua-cjson-ol"
-version = "1.0-0"
+version = "1.0-1"
 
 source = {
   url = "https://github.com/DorianGray/lua-cjson/archive/v1.0.tar.gz",
-  dir = "lua-jwt-1.0"
+  dir = "lua-cjson-1.0"
 }
 
 description = {
