@@ -1,8 +1,9 @@
-package = "lua-cjson"
-version = "2.1devel-1"
+package = "lua-cjson-ol"
+version = "1.0-0"
 
 source = {
-    url = "http://www.kyne.com.au/~mark/software/download/lua-cjson-2.1devel.zip",
+  url = "https://github.com/DorianGray/lua-cjson/archive/v1.0.tar.gz",
+  dir = "lua-jwt-1.0"
 }
 
 description = {
